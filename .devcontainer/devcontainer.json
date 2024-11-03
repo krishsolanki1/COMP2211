@@ -1,0 +1,11 @@
+{
+  "name": "Codespace with Singularity",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "runArgs": [
+    "--privileged"
+  ],
+  "settings": {},
+  "extensions": []
+}
