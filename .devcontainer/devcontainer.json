@@ -7,5 +7,6 @@
     "--privileged"
   ],
   "settings": {},
-  "extensions": []
+  "extensions": [],
+  "postCreateCommand": "setxkbmap us"
 }
